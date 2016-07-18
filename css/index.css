@@ -72,17 +72,17 @@ ul.social-network li {
 	background-color: #BD3518;
 }
 
-.social-network a.icoVimeo:hover {
-	background-color: #0590B8;
-}
 
 .social-network a.icoLinkedin:hover {
 	background-color: #007bb7;
 }
+.social-network a.icoCV:hover {
+	background-color: white ;
+}
 
 .social-network a.icoMail:hover i, .social-network a.icoGithub:hover i,
 	.social-network a.icoTwitter:hover i, .social-network a.icoGoogle:hover i,
-	.social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i
+	 .social-network a.icoLinkedin:hover i
 	{
 	color: #fff;
 }
@@ -94,19 +94,19 @@ a.socialIcon:hover, .socialHoverClass {
 .social-circle li a {
 	display: inline-block;
 	position: relative;
-	margin: 0 auto 0 auto;
-	-moz-border-radius: 50%;
-	-webkit-border-radius: 50%;
-	border-radius: 50%;
+	
+	-moz-border-radius: 35%;
+	-webkit-border-radius: 35%;
+	border-radius: 35%;
 	text-align: center;
 	width: 50px;
 	height: 50px;
-	font-size: 20px;
+	font-size: 21px;
 }
 
 .social-circle li i {
 	margin: 0;
-	line-height: 50px;
+	line-height: 48px;
 	text-align: center;
 }
 
@@ -129,4 +129,18 @@ a.socialIcon:hover, .socialHoverClass {
 	-o-transition: all 0.8s;
 	-ms-transition: all 0.8s;
 	transition: all 0.8s;
+	vertical-align: bottom;
+
+}
+#cv{
+	font-size: 53px;
+}
+.icoCV:hover{
+
+		-moz-border-radius: 13em;
+	-webkit-border-radius: 13em;
+	border-radius: 13em;
+width: 44px;
+	height: 44px;
+
 }
