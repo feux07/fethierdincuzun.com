@@ -27,6 +27,7 @@ h1, h2,h3 {
 
 h1 {
 	font-weight: bold;
+
 }
 
 .center {
@@ -143,4 +144,12 @@ a.socialIcon:hover, .socialHoverClass {
 width: 44px;
 	height: 44px;
 
+}
+h2{
+
+	font-family: 'Lobster', cursive;
+}
+
+p{
+	font-family: 'Dancing Script', cursive,bold;
 }
