@@ -1,0 +1,48 @@
+video::-webkit-media-controls {
+    display:none !important;
+}
+
+#video_player_box{
+
+    background:#000;
+    max-width: 100%;
+}
+
+#videoarea{
+
+    max-width: 100%;
+    height: auto;
+}
+
+#videofile{
+    max-width: 100%;
+    height: auto;
+}
+
+
+#video_controls_bar{
+    max-width: 100%;
+    height: auto;
+    background: #FFFFFF;
+
+
+}
+
+img{
+    max-width: 100%;    
+    height: auto;
+    cursor: pointer;
+    -khtml-user-select: none;
+    -o-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    /*background-size: auto;*/
+}
+
+
+#svg_seek{
+    width: 100%;    
+   max-height: 10px;
+
+}
