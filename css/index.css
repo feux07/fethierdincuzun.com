@@ -44,7 +44,10 @@ h1 {
 /* } */
 a {
 	margin: 2px;
-}ul.social-network {
+	margin-bottom: 10px; 
+	font-family: 'Dancing Script', cursive,bold;
+}
+ul.social-network {
 	list-style: none;
 	display: inline;
 	margin-left: 0 !important;
@@ -132,6 +135,10 @@ a.socialIcon:hover, .socialHoverClass {
 	transition: all 0.8s;
 	vertical-align: bottom;
 
+}
+#blog{
+	color: black;
+	font-size: 20px;
 }
 #cv{
 	font-size: 53px;
