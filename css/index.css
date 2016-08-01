@@ -1,9 +1,12 @@
 @CHARSET "UTF-8";
 
+
+
 html {
-	
-	min-width: 100%;
+		position: relative;
 	min-height: 100%;
+
+
 }
 /* html,body{ */
 
@@ -13,8 +16,9 @@ html {
 
 /* } */
 body {
-	
+	margin-bottom: 40px;
 	background: #bfbfbf;
+
 }
 
 /* .verticalalign { */
@@ -32,12 +36,15 @@ h1 {
 
 .center {
 	padding:5%;
-	margin-top: 5%;
-	margin-bottom: 5%;
+	margin-top: 3%;
+	margin-bottom: 3%;
 }
 
 .jumbotron {
 	background: transparent;
+	padding-top: %10;
+	margin-top: %10;
+	
 }
 /* a { */
 /* 	color:black; */
@@ -159,4 +166,16 @@ h2{
 
 p{
 	font-family: 'Dancing Script', cursive,bold;
+}
+footer{
+	margin: 0;
+	padding: 0;
+
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	/* Set the fixed height of the footer here */
+	height:40px;
+	
+
 }
