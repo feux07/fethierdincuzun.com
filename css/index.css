@@ -3,9 +3,9 @@
 
 
 html {
-		
-	min-height: 100%;
 
+	
+ min-height: 100%;
 
 }
 /* html,body{ */
@@ -16,8 +16,10 @@ html {
 
 /* } */
 body {
-	margin-bottom: 30px;
+	
 	background: #bfbfbf;
+	
+
 
 }
 
@@ -34,11 +36,7 @@ h1 {
 
 }
 
-.center {
-	
-	margin-top: 4%;
-	margin-bottom: 4%;
-}
+
 
 .jumbotron {
 	background: transparent;
@@ -50,7 +48,7 @@ h1 {
 /* } */
 a {
 	margin: 2px;
-	margin-bottom: 10px; 
+	margin-bottom: 1em; 
 	font-family: 'Dancing Script', cursive,bold;
 }
 ul.social-network {
@@ -169,12 +167,36 @@ p{
 footer{
 	
 	padding: 0;
+	margin-top: 4em;
 
-	position: absolute;
+
 	bottom: 0;
 	width: 100%;
 	/* Set the fixed height of the footer here */
-	height:30px;
+	
 	
 
+}
+
+.flex-item{
+
+	 margin: auto;
+    
+     -webkit-align-items: center;
+    align-items: center;
+}
+.flex-container{
+
+	display: -webkit-flex;
+    display: flex;
+    display:box;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+     -webkit-align-items: stretch;
+    align-items: stretch;
+       -webkit-justify-content: space-around;
+    justify-content: space-around;
+        -webkit-align-content: center;
+    align-content: center;
+}
 }
