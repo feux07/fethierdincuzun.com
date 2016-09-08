@@ -1,0 +1,32 @@
+{
+  "flightstore": [
+    {
+      "origin": "AYT",
+      "destination": "FRA",
+      "economy": 444,
+      "premium": 200,
+      "business": 555
+    },
+    {
+      "origin": "FRA",
+      "destination": "AYT",
+      "economy": 100,
+      "premium": 200,
+      "business": 444
+    },
+    {
+      "origin": "AYT",
+      "destination": "GFB",
+      "economy": 100,
+      "premium": 200,
+      "business": 200
+    },
+    {
+      "origin": "TRX",
+      "destination": "ayt",
+      "economy": 100,
+      "premium": 200,
+      "business": 300
+    }
+  ]
+}
