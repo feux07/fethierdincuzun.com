@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/feux07
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fethierdincuzun.com
+  * I am feux07 (https://keybase.io/feux07) on keybase.
+  * I have a public key ASCf_nWRsdUG4AN5SpVfSOjkdrgVN-e9ZMSoqGb1PentuQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209ffe7591b1d506e003794a955f48e8e476b81537e7bd64c4a8a866f53de9edb90a",
+      "host": "keybase.io",
+      "kid": "01209ffe7591b1d506e003794a955f48e8e476b81537e7bd64c4a8a866f53de9edb90a",
+      "uid": "e5a1c1a87b370fc21c5d860d6c722c19",
+      "username": "feux07"
+    },
+    "merkle_root": {
+      "ctime": 1550087351,
+      "hash": "292c4532a98be5fc1ff9d464a734416a05c413a66f8e7fd17f5294a81b56cd43b7cdef53c6ffa2b450e1ae3cf5b432f5b8c12796a8cfa3f3a38b0b0212383b40",
+      "hash_meta": "6a55e11e71c94e6d6ab3845899c485c5e0e587f79d6ed822984b3c71951dd6ab",
+      "seqno": 4759270
+    },
+    "service": {
+      "entropy": "OmHTJSl9DjvlQaZkfJpOA3SL",
+      "hostname": "fethierdincuzun.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1550087372,
+  "expire_in": 504576000,
+  "prev": "85207a992dfd79255accb2865f34b01fe23633ff7cda11c5110b87895bfb7314",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgn/51kbHVBuADeUqVX0jo5Ha4FTfnvWTEqKhm9T3p7bkKp3BheWxvYWTESpcCE8QghSB6mS39eSVazLKGXzSwH+I2M/982hHFEQuHiVv7cxTEIBfP3Jp81RiccwCTI8GOX8qkyj5srvONmSgPbfzK7MYAAgHCo3NpZ8RAmvKGogyZtTBeITrLpL4RrzABC4E3VwlZoxaf5nE0Pv3VDBxJKcKuVekS7WlspUtU3as+WaJnr8rrlVHMLg8iBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGnC1VnjmRHNRsDT5GOmovLDtCNFc711iczZFyKZ8+Mwo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/feux07
+
+==================================================================
